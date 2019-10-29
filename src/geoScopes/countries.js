@@ -1,7 +1,6 @@
 const countries = {
 
     india: {
-
         TimeZone: 330,
         GeoCode: 'IN',
     },
